@@ -1,4 +1,3 @@
-%T191064
 %Md. Zahidul Islam Sifat
 clc;
 clear all;
